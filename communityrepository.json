@@ -1,9 +1,9 @@
 {
   "themes":[
     {"user": "hyperts", "package": "default"}, 
-    {"user": "hyperts", "package": "slim"}, 
+    {"user": "hyperts", "package": "slim"}
   ],
   "widgets":[
-    {"user": "hyperts", "package": "hypermenu"}, 
+    {"user": "hyperts", "package": "hypermenu"}
   ]
 }

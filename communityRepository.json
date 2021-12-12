@@ -1,0 +1,12 @@
+{
+  "themes":[
+    "hyperts/hyperdefault",
+    "hyperts/hyperdragoon"
+  ]
+  "widgets":[
+    "hyperts/hypermenu",
+    "hyperts/hyperplaying",
+    "hyperts/hyperclock",
+    "hyperts/hypertray"
+  ]
+}

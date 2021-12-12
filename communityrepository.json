@@ -1,12 +1,9 @@
 {
   "themes":[
-    "hyperts/hyperdefault",
-    "hyperts/hyperdragoon"
-  ]
+    {"user": "hyperts", "package": "default"}, 
+    {"user": "hyperts", "package": "slim"}, 
+  ],
   "widgets":[
-    "hyperts/hypermenu",
-    "hyperts/hyperplaying",
-    "hyperts/hyperclock",
-    "hyperts/hypertray"
+    {"user": "hyperts", "package": "hypermenu"}, 
   ]
 }
